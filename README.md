@@ -4,6 +4,7 @@
 
 Thanks for checking out this personal project.
 
+![](https://dylanayache-portfolio.up.railway.app/images/app-meteo.PNG)
 ## The Project
 
 Desktop Weather App in JavaScript using a Web Components architecture with Electron.js. I used two APIs: OpenWeather to retrieve weather information and Geoapify to retrieve city results from the search bar.<br><br>
@@ -50,3 +51,5 @@ npm run dev:css
 - Tailwind
 - OpenWeather API
 - Geoapify API
+
+  
