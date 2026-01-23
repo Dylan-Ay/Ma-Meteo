@@ -12,8 +12,9 @@ Web Components is a suite of different technologies allowing you to create reusa
 
 ## License ❗
 
-This project is provided for educational purposes only.  
-Commercial use requires explicit permission from the author.
+This project is publicly available for viewing only.  
+Any reuse, modification, or inspiration from this code requires prior
+explicit permission from the author.
 
 ## Getting Started
 
