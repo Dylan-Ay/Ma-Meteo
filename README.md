@@ -12,9 +12,11 @@ Web Components is a suite of different technologies allowing you to create reusa
 
 ## License ❗
 
-This project is publicly available for viewing only.  
-Any reuse, modification, or inspiration from this code requires prior
-explicit permission from the author.
+- The source code is publicly visible for evaluation purposes only and may
+  not be reused without explicit prior permission.
+  
+- The application releases are free to download and use for personal and
+  educational purposes only.
 
 ## Getting Started
 
