@@ -10,6 +10,11 @@ Thanks for checking out this personal project.
 Desktop Weather App in JavaScript using a Web Components architecture with Electron.js. I used two APIs: OpenWeather to retrieve weather information and Geoapify to retrieve city results from the search bar.<br><br>
 Web Components is a suite of different technologies allowing you to create reusable custom elements — with their functionality encapsulated away from the rest of your code — and utilize them in your web apps without using a framework like React which I considered overkill for this kind of project.
 
+## License ❗
+
+This project is provided for educational purposes only.  
+Commercial use requires explicit permission from the author.
+
 ## Getting Started
 
 First, run the development server:
