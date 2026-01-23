@@ -1,0 +1,42 @@
+Copyright (c) 2026 [Dylan Ayache]
+
+All rights reserved.
+
+This repository contains both the source code of the Software and
+precompiled binary releases.
+
+1. Source Code
+
+The source code is made publicly available for viewing and evaluation
+purposes only.
+
+No permission is granted to use, copy, reproduce, modify, merge, publish,
+distribute, sublicense, sell, or create derivative works from the source
+code, in whole or in part, without prior explicit written permission from
+the copyright holder.
+
+This includes, but is not limited to:
+- reuse of the source code or any portion of it,
+- adaptation of the code for another project,
+- use of the code as a base, reference implementation, or template,
+- incorporation of the logic, structure, or architecture into another
+  project.
+
+2. Application Releases
+
+The precompiled application releases may be downloaded and used for
+personal and educational purposes only.
+
+Redistribution, modification, reverse engineering, or commercial use
+of the application releases is strictly prohibited without prior written
+permission from the copyright holder.
+
+3. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
