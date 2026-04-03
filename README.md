@@ -30,7 +30,7 @@ npm run start
 npm run dev:css
 ```
 
-**The functionalities are :**
+**Current functionalities :**
 - Searching for any city in the world thanks to Geoapify API by clicking the city result it'll retrieve the weather for this actual city.
   
 - The current and 24 hours weather information includes the temperature, the temperature as it feels, the weather icon, the wind speed, the humidity rate, the atmospheric pressure, the times of sunrise and sunset and a summary of the weather's day.
