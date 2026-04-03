@@ -47,17 +47,14 @@ npm run dev:css
 
 - A cache was implemented to avoid an excess of API calls.
 
-**The functionalities in building :**
-
+**Futures functionalities :**
 - Weather maps
 - Rain chart
 - Activities near the selected city
-- Maybe more informations about the city
+- More informations about the city
 
 **Stacks used :**
 - JavaScript Web Components / Electron.js
 - Tailwind
 - OpenWeather API
 - Geoapify API
-
-  
